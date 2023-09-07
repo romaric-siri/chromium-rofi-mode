@@ -8,6 +8,8 @@
 3. [`xdotool`](https://github.com/jordansissel/xdotool)
 3. `chrome`/`chromium` configured to run a remote debugger on port 9222. (see: [Arch wiki](https://wiki.archlinux.org/index.php/chromium#Making_flags_persistent) for persistence) `--remote-debugging-port=9222`
 
+##
+KDE : 
 
 ## Instructions
 1. Clone repository
